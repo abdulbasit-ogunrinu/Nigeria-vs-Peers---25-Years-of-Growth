@@ -1,0 +1,4 @@
+event_key,event_name,start,end,anchor_year,colour,note
+boom,Oil-led boom / pre-recession expansion,2000,2014,2005,#99C98A,High oil prices and robust domestic demand lift real GDP per capita.
+recession,2016 recession,2015,2017,2016,#E41A1C,"Oil price collapse, FX shortage and output contraction; real GDP falls in 2016."
+covid,COVID-19 dip and rebound,2020,2021,2020,#377EB8,2020 contraction; the 2021 rebound is flattered by the low 2020 base.

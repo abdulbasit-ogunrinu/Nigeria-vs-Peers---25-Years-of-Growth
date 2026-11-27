@@ -1,0 +1,13 @@
+country_code,country,indicator_code,n_observed,first_year_available,latest_year_available,missing_years
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,26,2000,2025,none
+IND,India,NY.GDP.MKTP.KD.ZG,26,2000,2025,none
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,26,2000,2025,none
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,26,2000,2025,none
+VNM,Vietnam,NY.GDP.MKTP.KD.ZG,26,2000,2025,none
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,26,2000,2025,none
+GHA,Ghana,NY.GDP.PCAP.KD,26,2000,2025,none
+IND,India,NY.GDP.PCAP.KD,26,2000,2025,none
+KEN,Kenya,NY.GDP.PCAP.KD,26,2000,2025,none
+NGA,Nigeria,NY.GDP.PCAP.KD,26,2000,2025,none
+VNM,Vietnam,NY.GDP.PCAP.KD,26,2000,2025,none
+ZAF,South Africa,NY.GDP.PCAP.KD,26,2000,2025,none
